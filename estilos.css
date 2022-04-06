@@ -1,1 +1,31 @@
-/*aaaaaaaa*/
+div{
+    margin:2px;
+}
+
+header{
+    background-color: aqua;
+    width: 100%;
+    position:fixed;
+    top:0;
+    left:0;
+}
+
+section{
+    position:relative;
+    top: 20vh;
+}
+
+footer{
+    background-color: aqua;
+    width: 100%;
+    position: fixed;
+    bottom:0;
+    left:0;
+}
+
+.banners{
+    background-color: aquamarine;
+    height: 20vh;
+    width: 25vw;
+    display:inline-block;
+}
